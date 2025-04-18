@@ -1,0 +1,7 @@
+# Mac Spotlight
+*.DS_Store
+
+#render
+*.bip
+*.stp
+/Cad
